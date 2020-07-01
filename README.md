@@ -1,4 +1,4 @@
-# FPRO solved exercises
+# FEUP/FPRO 2018/19 - solved exercises
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -13,7 +13,7 @@
 
 ## License
 
-© 2020 Diogo Rodrigues
+© 2018-2020 Diogo Rodrigues
 
 All `.py` files are licensed under [GNU General Public License v3](LICENSE) by **© 2020 Diogo Rodrigues**.
 
