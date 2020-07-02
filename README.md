@@ -11,6 +11,14 @@
 
 [Official course contents website](https://web.fe.up.pt/~jlopes/doku.php/teach/fpro/index)
 
+## Contents
+
+- [RE | Recitation Evaluation](RE) (theoretical-practical class assignments)
+- [PE | Practical Evaluation](PE) (practical tests)
+- [TE | Theoretical Evaluation](TE) (theoretical test)
+- [CH | Challenges](CH) (a few problems outside the course scope)
+- [Hall of Fame](HallOfFame) (large set of higher-difficulty problems)
+
 ## License
 
 © 2018-2020 Diogo Rodrigues
