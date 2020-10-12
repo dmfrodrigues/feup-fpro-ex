@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d9fd66dcfef948d386c85cac991fc6b6)](https://www.codacy.com/gh/dmfrodrigues/feup-fpro-ex/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dmfrodrigues/feup-fpro-ex&amp;utm_campaign=Badge_Grade)
+
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [FPRO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419983) (Programming Fundamentals)
 - **Subjects:** Create algorithms and implement, test and debug them to solve simple problems. Programming constructs and functional programming
